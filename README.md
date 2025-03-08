@@ -27,8 +27,7 @@ Most budget-friendly player: Kolkata Knight Riders 🏏
 Chennnai Super Kings spent the most
 
 📥 How to Use
-1️⃣ Clone the repository:
-git clone https://github.com/yourusername/IPL-2025-Auction-Analysis.git
+1️⃣ Clone the repository
 
 2️⃣ Install dependencies:
 
